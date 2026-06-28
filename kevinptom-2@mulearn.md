@@ -50,7 +50,7 @@
 
 #### History of Community Engagement:
 
-- I collaborate closely with my core development team, Nexus Thinkers, alongside my peers Lokhi, Niya, Savio, Sidharth, Sourav, and Pranav. We frequently work on technical architectures, hardware simulations, and comprehensive project documentation together.
+- I collaborate closely with my core development team, Nexus Thinkers, alongside my peers Savio, Sidharth, Sourav, and Pranav. We frequently work on technical architectures, hardware simulations, and comprehensive project documentation together.
 
 #### Domain Profiles:
 
